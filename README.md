@@ -44,7 +44,7 @@
 
   <table>
   <tr>
-    <th><a href="[https://flutter.dev](https://www.djangoproject.com/)/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
+    <th><a href="[https://flutter.dev](https://www.djangoproject.com/)/" target="_blank"><img src="[Images/flutter.svg](https://www.emizentech.com/blog/wp-content/uploads/sites/2/2022/07/Python-web-framework-django.jpg)" height="64" width="64"></a></th>
     <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
     <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="64" width="68"></a></th>
     <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="64"></a></th>
