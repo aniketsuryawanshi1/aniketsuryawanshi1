@@ -91,9 +91,11 @@
 
 ## Area Of Interest 🏆 🏅 🎖: 
 
--Web Development 🏆
--Backend Development 🏅
+
 - Machine Learning 🏆
+- Web Development 🏆
+- Backend Development 🏅
+
 - Deep Learning 🏆
 - Natural Language Processing 🏆
 - Computer Vision 🏆
